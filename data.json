@@ -1,0 +1,82 @@
+[
+    {
+        "title": "What Is HTML Stands For?",
+        "answer_1": "Hyperlinks and Text Markup Language",
+        "answer_2": "Home Tool Markup Language",
+        "answer_3": "Hyper Text Markup Language",
+        "answer_4": "Hight Tracking Markup Language",
+        "right_answer": "Hyper Text Markup Language"
+    },
+    {
+        "title": "Why We Use <br> Element?",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Make Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "Choose the correct HTML element for the largest heading:",
+        "answer_1": "<h3>",
+        "answer_2": "<h6>",
+        "answer_3": "<hr>",
+        "answer_4": "<h1>",
+        "right_answer": "<h1>"
+    },
+    {
+        "title": "Choose Self Closing Tag From The List:",
+        "answer_1": "<img>",
+        "answer_2": "<body>",
+        "answer_3": "<head>",
+        "answer_4": "<ul>",
+        "right_answer": "<img>"
+    },
+    {
+        "title": "Why We Use HTML Language?",
+        "answer_1": "To Styling The Page",
+        "answer_2": "To Make The Pages Interactive",
+        "answer_3": "To Create Main structure Of Web Pages",
+        "answer_4": "To create dynamic content and interact with databases",
+        "right_answer": "To Create Main structure Of Web Pages"
+    },
+    {
+        "title": "Choose the correct HTML element to define emphasized text",
+        "answer_1": "<i>",
+        "answer_2": "<italic>",
+        "answer_3": "<em>",
+        "answer_4": "<b>",
+        "right_answer": "<em>"
+    },
+    {
+        "title": "How can you make a numbered list?",
+        "answer_1": "<ol>",
+        "answer_2": "<ul>",
+        "answer_3": "<dl>",
+        "answer_4": "<el>",
+        "right_answer": "<ol>"
+    },
+    {
+        "title": "Which Element Is Writen In The <body> Tag?",
+        "answer_1": "<article>",
+        "answer_2": "<title>",
+        "answer_3": "<query>",
+        "answer_4": "Second And Third",
+        "right_answer": "<title>"
+    },
+    {
+        "title": "What Is The Correct Method To link A CSS File?",
+        "answer_1": "<a href=style.css></a>",
+        "answer_2": "<link rel=stylesheet href=style.css/>",
+        "answer_3": "<meta rel=stylesheet link=style.css/>",
+        "answer_4": "<query file=style.css/>",
+        "right_answer": "<link rel=stylesheet href=style.css/>"
+    },
+    {
+        "title": "Which Character Is Used To Indicate An End Tag?",
+        "answer_1": "*",
+        "answer_2": "}",
+        "answer_3": ">",
+        "answer_4": "/",
+        "right_answer": "/"
+    }
+]
